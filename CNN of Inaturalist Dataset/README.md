@@ -3,7 +3,8 @@ Dataset link : https://www.kaggle.com/aryanpandey1109/inaturalist12k
 
 The dataset contains 10 classes :
 
-![ScreenShot](https://{postimg.cc/GH63n3GS})
+![Alt text](https://postimg.cc/GH63n3GS)
+
 
 This project can be divided into 3 parts:
 1.Implementation of different Convolutional Neural Network architectures on the Dataset
