@@ -1,5 +1,5 @@
 # cs6910_Assignment2
-0.Dataset link : https://www.kaggle.com/aryanpandey1109/inaturalist12k
+0.Dataset link : https://www.kaggle.com/aryanpandey1109/inaturalist12k  or  https://storage.googleapis.com/wandb_datasets/nature_12K.zip
 
 1.The dataset contains 10 classes where each class has 1k images of that category.
 
