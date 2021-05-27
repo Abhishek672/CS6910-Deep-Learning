@@ -1,6 +1,8 @@
 # cs6910_assignment3
 For Recurrent Neural Networks
 
+0.Dataset Description : https://github.com/google-research-datasets/dakshina#:~:text=Dakshina%20Dataset,-The%20Dakshina%20dataset&text=South%20Asian%20languages.-,For%20each%20language%2C%20the%20dataset%20includes%20a%20large%20collection%20of,and%20the%20basic%20Latin%20alphabet.
+
 1.This repo contains 2 Folders PartA and partB.PartA contains the answers for Q2,Q3 and Q4.
 
 2.PartB contains the answers for the Q5 and Q6.
