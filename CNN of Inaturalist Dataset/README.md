@@ -3,7 +3,7 @@ Dataset link : https://www.kaggle.com/aryanpandey1109/inaturalist12k
 
 The dataset contains 10 classes :
 
-![Alt text](https://postimg.cc/GH63n3GS)
+![Screenshot](images.png)
 
 
 This project can be divided into 3 parts:
