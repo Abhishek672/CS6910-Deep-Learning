@@ -18,4 +18,4 @@ and separated by new line character.
 
 6.Due to time constraints the validation accuracy during each epoch is calculated via Teacher Forcing.
 
-7.Report Link : https://wandb.ai/manideepladi/DeepLearning/reports/Assignment-1--Vmlldzo1MzAxMjM
+7.Report Link : https://wandb.ai/manideepladi/RNN_Assignment/reports/Assignment-3--Vmlldzo3MDg5Mzk
