@@ -21,3 +21,5 @@ The 'TestpartA.ipynb' is given inside the folder to check the correctness of the
 5.partB contains the ipynb file of partB.
 
 6.'TestpartB.ipynb' is given to check the correctness of code. just run each cell starting from first.it will not take more than 3 mins to check the code.
+
+7.Report Link : https://wandb.ai/manideepladi/CNN_PartA/reports/Convolution-Neural-Network-Assignment-2--Vmlldzo2MDQzMjI
